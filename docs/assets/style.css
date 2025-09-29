@@ -1,9 +1,0 @@
-body{font-family:Arial,Helvetica,sans-serif;background:#f9fafb;margin:0;padding:20px;text-align:center}
-nav{margin-bottom:20px}
-nav a{margin:0 10px;text-decoration:none;color:#2563eb;font-weight:bold}
-h1{color:#2563eb}
-input,textarea{display:block;margin:10px auto;padding:8px;width:80%;max-width:400px;border:1px solid #ccc;border-radius:6px}
-button{margin-top:10px;padding:10px 20px;border:none;border-radius:6px;cursor:pointer;background:#2563eb;color:white}
-.preview img{margin-top:15px;max-width:90%;border-radius:8px;border:1px solid #ddd}
-.error{color:#c02626;font-weight:bold;margin-top:10px}
-.success{color:green;font-weight:bold;margin-top:10px}
